@@ -8,4 +8,4 @@ I'm a recent graduate with a B.S. in Data Analytics from Washington State Univer
 
 
 ## 📫 Let’s connect!
-[LinkedIn](www.linkedin.com/in/kikzelyavalos) • [Email](mailto:kikzelya@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kikzelyavalos) • [Email](mailto:kikzelya@gmail.com)
