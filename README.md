@@ -18,3 +18,5 @@ I'm a recent graduate with a B.S. in Data Analytics from Washington State Univer
 
 ## 📊 GitHub Stats
 ![Kikzely's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikzely&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikzely)](https://github.com/kikzely/github-readme-stats)
